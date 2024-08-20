@@ -1,2 +1,5 @@
 # Project-Image_Retrieval
-Image retrieval using basic Math
+Image retrieval with:
++ Basic retrieval
++ Pretrained deep learning model
++ Using CLIP Model and Database Vector
